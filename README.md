@@ -9,15 +9,24 @@ Hi everyone. This is me Shrill. Currently, I am an undergraduate student majorin
 - Summer intern as a lead instructor in programming and robotics camps at [Stem4Kids](https://www.stem4kids.co/).
 - Undergraduate teaching assistant at the Department of Computer Science, [ULM](https://www.ulm.edu/) for introduction and intermediate progamming classes.
 
-### My Github Stats So far ...
+### My Github Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ShrillShrestha&show_icons=true&theme=tokyonight&line_height=48" />
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrillShrestha&count_private=true&theme=tokyonight">
 </p>
 
-How to reach me: [LinkedIn](https://www.linkedin.com/in/shrill-shrestha567/) <br />
-Pronouns: he/him/his
+### So far I have learned:
+
+<span> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> </span>
+<span> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> </span>
+<span> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </span>
+<span> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> </span>
+<span> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> </span>
+<span> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> </span>
+
+### How to reach me: [LinkedIn](https://www.linkedin.com/in/shrill-shrestha567/) <br />
+### Pronouns: he/him/his
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
