@@ -6,7 +6,7 @@ Hi everyone. This is me, Shrill. Currently, I am an undergraduate student majori
 ### My Expereince:
 - Software developer intern at [ULM LSBDC](https://www.louisianasbdc.org/lsbdc-at-university-of-louisiana-monroe)
 - Undergraduate teaching assistant at the Department of Computer Science, [ULM](https://www.ulm.edu/) for introduction and intermediate progamming classes.
-- Summer intern as a lead instructor in programming and robotics camps at [Stem4Kids](https://www.stem4kids.co/).
+- Summer intern as an instructor in programming and robotics camps at [Stem4Kids](https://www.stem4kids.co/).
 
 ### My Github Stats:
 
