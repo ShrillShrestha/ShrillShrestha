@@ -1,10 +1,11 @@
 # Hello World! 👋
 ## Welcome to my Github profile 🙂
 
-Hi everyone. This is me, Shrill. Currently, I am an undergraduate student majoring in computer science along with a minor in mathematics. My journey in this field started 3 years ago, and I am still equally excited to learn something new every single day. I have been exploring around with different technologies to get an overview of the current state of our technological world.
+Hi everyone. This is me, Shrill. Currently, I am an undergraduate student majoring in computer science along with a minor in mathematics. I love exploring around with different technologies to get an overview of our technological world. <strong> Happy Hacking!!! </strong>
 
-### My Expereince:
+### Expereince:
 - Software developer intern at [ULM LSBDC](https://www.louisianasbdc.org/lsbdc-at-university-of-louisiana-monroe)
+- Explorer Fellow at [MLH Fellowship](https://fellowship.mlh.io/) Spring'21 
 - Undergraduate teaching assistant at the Department of Computer Science, [ULM](https://www.ulm.edu/) for introduction and intermediate progamming classes.
 - Summer intern as an instructor in programming and robotics camps at [Stem4Kids](https://www.stem4kids.co/).
 
@@ -26,13 +27,3 @@ Hi everyone. This is me, Shrill. Currently, I am an undergraduate student majori
 
 ### How to reach me: [LinkedIn](https://www.linkedin.com/in/shrill-shrestha567/) <br />
 ### Pronouns: he/him/his
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  ...
-- ⚡ Fun fact: ...
--->
