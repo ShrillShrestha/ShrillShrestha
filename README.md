@@ -11,7 +11,7 @@
 ### My GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrillShrestha&show_icons=true&theme=tokyonight&line_height=48" />
+  <img width="52.25%" src="https://github-readme-stats.vercel.app/api?username=ShrillShrestha&show_icons=true&theme=tokyonight&line_height=48" />
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrillShrestha&count_private=true&theme=tokyonight">
 </p>
 
