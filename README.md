@@ -1,6 +1,6 @@
 <h2 align="center"> Namaste 🙏</h2>
 
-<p align="center">This is Shrill. I am an international undergraduate student at the University of Louisiana Monroe majoring in computer science with a minor in mathematics. I love exploring around with different technologies and learning about them. <p>
+<p align="center">This is Shrill. I am an international undergraduate student at the University of Louisiana Monroe majoring in Computer Science with a minor in Mathematics. I love exploring around with different technologies and learning about them. <p>
 
 ### My Expereinces:
 - Software Developer Intern at [ULM LSBDC](https://www.louisianasbdc.org/lsbdc-at-university-of-louisiana-monroe)
