@@ -22,7 +22,7 @@
 - [DocVerifier](https://github.com/Open-Sourced-Olaf/DocVerifier)
 - [CodeMent](https://github.com/RashikaKarki/Codement)
 
-You can reach me at [LinkedIn](https://www.linkedin.com/in/shrill-shrestha567/).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/shrillshrestha/).
 
 Also, here's my [resume](https://drive.google.com/file/d/1pv9cp6OpSrLJd8iYuA81wifAZBSa4Ol0/view?usp=sharing) 😄.
 
