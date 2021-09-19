@@ -6,7 +6,7 @@
 - Software Developer Intern at [ULM LSBDC](https://www.louisianasbdc.org/lsbdc-at-university-of-louisiana-monroe)
 - Explorer Fellow @ [MLH Fellowship](https://fellowship.mlh.io/) Spring'21, Open Source Fellow @ [MLH Fellowship](https://fellowship.mlh.io/) Fall'21
 - Undergraduate Teaching Assistant at the Department of Computer Science, [ULM](https://www.ulm.edu/) for introductory and intermediate progamming classes
-- Summer Intern as an instructor for programming and robotics camps at [Stem4Kids](https://www.stem4kids.co/)
+- Summer Intern as an instructor for programming and robotics at [Stem4Kids](https://www.stem4kids.co/)
 
 ### My GitHub Stats:
 
