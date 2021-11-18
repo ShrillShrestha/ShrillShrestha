@@ -16,6 +16,7 @@
 </p>
 
 ### Recent Projects:
+- [Digital-Diary](https://github.com/ShrillShrestha/digital-diary)
 - [VSCode-GitHub-Projects](https://github.com/MLH-Fellowship/vscode-github-projects)
 - [Machuuni](https://github.com/ShrillShrestha/Machuuni)
 - [PoseRunner](https://github.com/MLH-Fellowship/PoseRunner)
