@@ -25,6 +25,6 @@
 
 You can reach me at [LinkedIn](https://www.linkedin.com/in/shrillshrestha/).
 
-Also, here's my [resume](https://drive.google.com/file/d/1m1fWY0H8RlrpXO6A9R3DOe2_wTRwOl_g/view?usp=sharing) 😄.
+Also, here's my [resume](https://drive.google.com/file/d/1DepZUdS72YBJyUSS3mJMhSbPoGoSRqJf/view?usp=sharing) 😄.
 
 <p>Thanks for stopping by! <strong> Happy Hacking!!! </strong> </p>
