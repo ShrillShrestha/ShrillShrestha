@@ -5,7 +5,7 @@
 ### My Experiences:
 - Software Engineer at [Mastercard](https://www.mastercard.us/en-us.html)
 - Software Developer Intern at [ULM LSBDC](https://www.louisianasbdc.org/lsbdc-at-university-of-louisiana-monroe)
-- Explorer Fellow Spring'21, Open Source Fellow Fall'21 at [MLH Fellowship](https://fellowship.mlh.io/)
+- Explorer Fellow Spring'21, and Open Source Fellow Fall'21 at [MLH Fellowship](https://fellowship.mlh.io/)
 - Undergraduate Teaching Assistant at the Department of Computer Science, [ULM](https://www.ulm.edu/) for introductory and intermediate progamming classes
 - Summer Intern as an instructor for programming and robotics at [Stem4Kids](https://www.stem4kids.co/)
 
