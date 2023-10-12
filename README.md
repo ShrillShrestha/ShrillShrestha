@@ -6,16 +6,17 @@
 - Software Engineer at [Mastercard](https://www.mastercard.us/en-us.html)
 - Software Developer at [ULM LSBDC](https://www.louisianasbdc.org/lsbdc-at-university-of-louisiana-monroe)
 - Explorer Fellow Spring'21, and Open Source Fellow Fall'21 at [MLH Fellowship](https://fellowship.mlh.io/)
-- Undergraduate Teaching Assistant at the Department of Computer Science, [ULM](https://www.ulm.edu/) for introductory and intermediate progamming classes
+- Undergraduate Teaching Assistant at the Department of Computer Science, [ULM](https://www.ulm.edu/) for introductory and intermediate Programming classes
 - Summer Intern as an instructor for programming and robotics at [Stem4Kids](https://www.stem4kids.co/)
 
+<!--
 ### My GitHub Stats:
 
 <p align="left">
   <img width="52.25%" src="https://github-readme-stats.vercel.app/api?username=ShrillShrestha&show_icons=true&theme=tokyonight&line_height=48" />
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrillShrestha&count_private=true&theme=tokyonight">
 </p>
-
+-->
 ### Recent Projects:
 - [Digital-Diary](https://github.com/ShrillShrestha/digital-diary)
 - [VSCode-GitHub-Projects](https://github.com/MLH-Fellowship/vscode-github-projects)
