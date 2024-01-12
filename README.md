@@ -1,6 +1,6 @@
 <h2 align="center"> Namaste 🙏</h2>
 
-<p align="center">This is Shrill. I got my undergraduate degree from the University of Louisiana Monroe in Computer Science with a minor in Mathematics. I love exploring around with different technologies and learning about them. <p>
+<p align="center">This is Shrill. I am an international student from Nepal living in the states for the past 6 years. I got my undergraduate degree from the University of Louisiana Monroe in Computer Science with a minor in Mathematics. I love exploring around with different technologies and learning about them. <p>
 
 ### My Experiences:
 - Software Engineer at [Mastercard](https://www.mastercard.us/en-us.html)
